@@ -1,3 +1,11 @@
+#kaggle data
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+ratings.csv
+ratings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
